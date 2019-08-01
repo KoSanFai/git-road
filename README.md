@@ -10,3 +10,7 @@ learn git
 - New Balance
 
 - Nike
+
+- Adidas
+
+- Puma
