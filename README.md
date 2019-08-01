@@ -15,6 +15,9 @@ learn git
 
 - Puma
 
+
+- Supreme
+
 - Kappa
 - Supreme
 
