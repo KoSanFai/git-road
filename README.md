@@ -6,5 +6,3 @@ learn git
 - dev 2th
 
 - dev 3th
-
-- dev 4th
