@@ -7,10 +7,10 @@ learn git
 
 - dev 3th
 
-- New Balance
+- New Balance 3
 
-- Nike
+- Nike 1
 
-- Adidas
+- Adidas 2
 
 - Puma
