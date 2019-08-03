@@ -20,3 +20,5 @@ learn git
 - Aape
 
 - Kappa
+
+- Jordan
