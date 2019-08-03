@@ -15,10 +15,11 @@ learn git
 
 - Puma
 
-
 - Supreme
+
+- Aape
 
 - Kappa
 - Supreme
 
-- Aape
+- Jordan
